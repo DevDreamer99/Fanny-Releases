@@ -15,9 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/panel-light.png" width="360" alt="Fanny's panel in the menu bar">
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/panel-dark.png" width="360" alt="Fanny's panel in dark mode">
+  <img src="assets/showcase/1-main.jpg" alt="Fanny: your Mac's temperatures at a glance, its fans the way you want">
 </p>
 
 ---
@@ -35,15 +33,16 @@
 - **Handy extras**: keyboard shortcuts ⌃⌥1…5 for the presets, an automatic preset on battery, a warning when your Mac runs hot, Fahrenheit, decimals, light and dark themes.
 - **43 languages.**
 
-<p align="center">
-  <img src="assets/screenshots/editor-light.jpg" width="620" alt="Fan control: follows a sensor, with its curve">
-</p>
-
-<p align="center">
-  <img src="assets/screenshots/sensors-dark.png" width="300" alt="All sensors">
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/settings-light.jpg" width="520" alt="Settings">
-</p>
+<table>
+  <tr>
+    <td><img src="assets/showcase/3-curve.jpg" alt="Your fans, your curve"></td>
+    <td><img src="assets/showcase/2-dark.jpg" alt="Made for light and dark"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/showcase/4-sensors.jpg" alt="Every sensor at a glance"></td>
+    <td><img src="assets/showcase/5-safety.jpg" alt="Safe by design"></td>
+  </tr>
+</table>
 
 ## Install
 
@@ -69,6 +68,11 @@ Fanny checks this page once a day and can update itself in a click (you can turn
 | Macs | Apple silicon and Intel, with or without fans (fanless Macs get monitoring only) |
 
 ## What's new
+
+**1.0.1**
+- Fan speeds use the international unit "rpm" in every language.
+- The menu bar shows decimals when "Decimals" is on.
+- Small layout fixes in the panel and in Settings.
 
 **1.0.0**
 - First release.
