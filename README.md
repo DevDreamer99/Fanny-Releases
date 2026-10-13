@@ -70,9 +70,8 @@ Fanny checks this page once a day and can update itself in a click (you can turn
 ## What's new
 
 **1.0.1**
-- Fan speeds use the international unit "rpm" in every language.
-- The menu bar shows decimals when "Decimals" is on.
-- Small layout fixes in the panel and in Settings.
+- Temperatures in the preset description no longer break across two lines.
+- Settings: the line between the sidebar and the content is drawn correctly.
 
 **1.0.0**
 - First release.
