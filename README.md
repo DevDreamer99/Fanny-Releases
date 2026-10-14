@@ -69,6 +69,11 @@ Fanny checks this page once a day and can update itself in a click (you can turn
 
 ## What's new
 
+**1.0.2**
+- Settings, the fan editor and the welcome window open in the middle of the screen.
+- Updating from inside Fanny is cleaner: the old copy quits first, the new one starts right after.
+- If Fanny's system component doesn't respond, Fanny tells you and offers a Repair button.
+
 **1.0.1**
 - Temperatures in the preset description no longer break across two lines.
 - Settings: the line between the sidebar and the content is drawn correctly.
