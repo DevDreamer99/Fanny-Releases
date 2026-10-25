@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/showcase/1-main.jpg" alt="Fanny: your Mac's temperatures at a glance, its fans the way you want">
+  <img src="assets/cover.jpg" alt="Fanny: your Mac, cool and quiet">
 </p>
 
 ---
@@ -32,6 +32,10 @@
 - **Menu bar your way**: temperature and/or fan speed, on one line or one above the other, with or without the icon; it can turn red above a temperature you choose.
 - **Handy extras**: keyboard shortcuts ⌃⌥1…5 for the presets, an automatic preset on battery, a warning when your Mac runs hot, Fahrenheit, decimals, light and dark themes.
 - **43 languages.**
+
+<p align="center">
+  <img src="assets/showcase/1-main.jpg" alt="Fanny: your Mac's temperatures at a glance, its fans the way you want">
+</p>
 
 <table>
   <tr>
